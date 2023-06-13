@@ -2,4 +2,4 @@
 
 
 - 🌱 I’m currently studying at Digital College to become a Fullstack developer.
-- 📚 I'm studying programming about 3 months (June/2023)..
+- 📚 I'm studying programming about 3 months (June/2023)
