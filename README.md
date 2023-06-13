@@ -33,9 +33,9 @@
     <td colspan='2'>
        <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ocaueo&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
     </td>
-<!--      <td>
-    <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
-    </td> -->
+      <td>
+    <img width="90%" src="https://profile-counter.glitch.me/ocaueo/count.svg">
+    </td>
   </tr>
   
   <tr></tr>
