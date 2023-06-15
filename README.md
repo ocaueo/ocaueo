@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&width=435&lines=HELLO!;My+Name+is+Cau%C3%AA+Oliveira;I'm+19+Years+Old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&pause=1000&center=true&vCenter=true&width=1000&lines=HELLO!;My+Name+is+Cau%C3%AA+Oliveira;I'm+19+Years+Old)](https://git.io/typing-svg)
 
 - #### 🌱 I’m currently studying at Digital College to become a Fullstack developer.
 - #### 📚 I'm studying programming about 3 months (June/2023)
