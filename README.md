@@ -64,10 +64,9 @@
   </tr>
   
   <tr align='center' height='100px'>
-    <td>
+    <td>                                                                                                                                                                                                                     <img alt="Gustavo-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
       <img alt="Gustavo-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img alt="Gustavo-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-      <img alt="Gustavo-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </tr>
   
   <tr align='center'>
