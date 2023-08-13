@@ -60,6 +60,7 @@
     </th>
     <th>
       <h2>Database</h2>
+    <th>
     </th>
   </tr>
   
