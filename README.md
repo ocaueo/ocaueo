@@ -2,49 +2,41 @@
 <table>
 <tr>
     <td>
-        <h2>🌱 I’m currently studying at Digital College to become a Fullstack developer.</h2>
-        <h2> 📚 I'm studying programming about 10 months (January/2023).</h2>
-        <h2> 📖 Studying at this moment: React, MySQL and Node.</h2>
+        <h3>🌱 I’m currently studying at Digital College to become a Fullstack developer.</h3>
+        <h3> 📚 I'm studying programming about 11 months (February/2023).</h3>
+        <h3> 📖 Studying at this moment: React, MySQL and Node.</h3>
     </td>
     <td>
-      <img width="100%" align='center' alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"/>
+    </td>
+    <td align="center">
+      <img width="200%" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
     </td>
   </tr>
-</table>
-
-<table>
   
+  <tr>
+    <td colspan='2'>
+      <img width="100%" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQHK7Z9hLpN0bg/profile-displaybackgroundimage-shrink_350_1400/0/1693428752129?e=1712793600&v=beta&t=crEaf8SQp-cFmcVFEA_gS2l79SGusVyvQ29F1_5fShk" />
+    </td>
+  </tr>
   <tr></tr>
   
   <tr align='center'>
-    <td colspan='2'><h2>Check my Github status:</h2></td>
-<!--     <td><h2>Thanks for visiting my profile</h2></td> -->
+    <td colspan='2'><h1>Veja meus status do Github:</h1></td>
   </tr>
   
-  <tr></tr>
+  <tr>
+    
+  </tr>
   
-  <tr></tr>
+  <tr>
+    
+  </tr>
   
   <tr align='center'>
-    <td>
-       <img width='100%' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ocaueo&layout=compact&hide_border=true&langs_count=6&theme=algolia"/>
-    </td>
-      <td>
-    <img width="90%" src="https://profile-counter.glitch.me/ocaueo/count.svg">
+    <td colspan='2'>
+       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaueo&layout=compact&hide_border=true&langs_count=7&theme=algolia"/>
     </td>
   </tr>
-  
-  <tr></tr>
-  
-  <tr align='center'>
-    <td>
-      <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ocaueo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
-    </td>
-    <td>
-      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ocaueo&theme=algolia&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 <table>
   <tr>
@@ -53,6 +45,31 @@
     </td>
   </tr>
  </table> 
+
+  <tr></tr>
+  
+  <tr align='center'>
+    <td>
+      <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ocaueo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
+    </td>
+    <td>
+      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ocaueo&theme=algolia&hide_border=true" />
+    </td>
+  </tr>
+  
+  <tr></tr>
+  
+  <tr>
+    <td colspan='2'>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocaueo&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td colspan='2'><img width="100%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+  </tr>
+
   
  <table>
   <tr align='center'>
