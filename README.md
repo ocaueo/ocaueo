@@ -60,13 +60,6 @@
   <tr></tr>
   
   <tr>
-    <td colspan='2'>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocaueo&theme=react-dark&hide_border=true" />
-    </td>
-  </tr>
-
-  
-  <tr>
     <td colspan='2'><img width="100%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
   </tr>
 
