@@ -3,7 +3,7 @@
 <tr>
     <td>
         <h3>🌱 I’m currently studying at Digital College to become a Fullstack developer.</h3>
-        <h3> 📚 I'm studying programming about 11 months (February/2023).</h3>
+        <h3> 📚 I'm studying programming about 11 months (February/2024).</h3>
         <h3> 📖 Studying at this moment: React, MySQL and Node.</h3>
     </td>
     <td>
