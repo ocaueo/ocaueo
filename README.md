@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&pause=1000&center=true&vCenter=true&width=1000&lines=HELLO!;My+Name+is+Cau%C3%AA+Oliveira;I'm+19+Years+Old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&pause=1000&center=true&vCenter=true&width=1000&lines=HELLO!;My+Name+is+Cau%C3%AA+Oliveira;I'm+20+Years+Old)](https://git.io/typing-svg)
 <table>
 <tr>
     <td>
