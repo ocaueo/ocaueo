@@ -1,37 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&pause=1000&center=true&vCenter=true&width=1000&lines=HELLO!;My+Name+is+Cau%C3%AA+Oliveira;I'm+20+Years+Old)](https://git.io/typing-svg)
-<table>
-<tr>
-<td>
-</td>
-    <td align="center">
-    <img width="200%" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
-    </td>
-  </tr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=16A085&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=HELLO;My+Name+Is+Cau%C3%AA+Oliveira;I'm+Software+Developer;I'm+21+Years+Old;+I'm+from+Brazil;Be+Welcome)](https://git.io/typing-svg)
+
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ocaueo&show_icons=true&count_private=true&hide_border=true&title_color=16A085&icon_color=154360&text_color=16A085&bg_color=0d1117" alt="Talyson's github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ocaueo&layout=compact&hide_border=true&title_color=16A085&text_color=16A085&bg_color=0d1117"/>
+</div>
+
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ocaueo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+</div>
+
+<div align="center">  
+  <a href="https://www.instagram.com/caueo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:caue4824@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cauê--oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
   
-  <tr>
-    <td colspan='2'>
-      <img width="100%" alt="Github" src="https://media.licdn.com/dms/image/D4D16AQHK7Z9hLpN0bg/profile-displaybackgroundimage-shrink_350_1400/0/1693428752129?e=1712793600&v=beta&t=crEaf8SQp-cFmcVFEA_gS2l79SGusVyvQ29F1_5fShk" />
-    </td>
-  </tr>
-  <tr></tr>
-  
-  <tr align='center'>
-    <td colspan='2'><h1>Veja meus status do Github:</h1></td>
-  </tr>
-  
-  <tr>
-    
-  </tr>
-  
-  <tr>
-    
-  </tr>
-  
-  <tr align='center'>
-    <td colspan='2'>
-       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaueo&layout=compact&hide_border=true&langs_count=7&theme=algolia"/>
-    </td>
-  </tr>
+ 
 
 <table>
   <tr>
@@ -39,25 +25,13 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=ocaueo&theme=react-dark&hide_border=true" />
     </td>
   </tr>
- </table> 
-
-  <tr></tr>
-  
-  <tr align='center'>
-    <td>
-      <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ocaueo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
-    </td>
-    <td>
-      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ocaueo&theme=algolia&hide_border=true" />
-    </td>
-  </tr>
+ </table>
   
   <tr></tr>
   
   <tr>
     <td colspan='2'><img width="100%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
   </tr>
-
   
  <table>
   <tr align='center'>
